@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - jrb causes an infinite loop
+ * main - one causes an infinite loop
  * Return: 0
  */
 
