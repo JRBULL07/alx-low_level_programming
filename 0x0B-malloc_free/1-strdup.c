@@ -21,7 +21,7 @@ char *_strdup(char *str)
 
 	spike = (char *)malloc(sizeof(char) * (i + 1));
 
-	if (strout == NULL)
+	if (spike == NULL)
 		return (NULL);
 
 	for (j = 0; j <= i; j++)
