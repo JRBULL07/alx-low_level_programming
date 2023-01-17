@@ -8,7 +8,7 @@
  *
  * Return: int
  */
- 
+
 int check(int a, int b)
 {
 	if (a * a == b)
@@ -23,7 +23,7 @@ int check(int a, int b)
  * @n: integer to find sqrt of
  * Return: natural square root or -1
  */
- 
+
 int _sqrt_recursion(int n)
 {
 	if (n == 0)
