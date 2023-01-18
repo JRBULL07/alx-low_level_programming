@@ -12,6 +12,10 @@
  * @f: The associated function.
  */
 
+#include <stddef.h>
+#include <stdlib.h> 
+#include <stdio.h> 
+
 typedef struct op
 {
 	char *op;
